@@ -1,7 +1,7 @@
 # Chicago Crimes
 ## Team
 - Francisco Assiso (Team Leader)
-- Ricardo Castañeda (Data Scientist) (Team A)
+- Ricardo Castañeda (Data Scientist) (Team A) - Tarea completada 
 - Omar Orozco (Data Scientist) (Team A)
 - Emiliano Rivera (Data Scientist) (Team A)
 - Eduardo Buysse (Data Scientist) (Team B)
